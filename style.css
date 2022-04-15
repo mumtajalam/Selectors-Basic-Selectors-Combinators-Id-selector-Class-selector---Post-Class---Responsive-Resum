@@ -101,7 +101,7 @@
   padding: 00.05rem;
   letter-spacing: 1px;
 }
-@media (max-width: 673px) {
+@media (max-width: 672px) {
   .main-content {
     grid-template-columns: repeat(1, 1fr);
     width: 90%;
