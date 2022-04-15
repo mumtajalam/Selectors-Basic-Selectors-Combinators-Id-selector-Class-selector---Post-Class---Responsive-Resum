@@ -47,7 +47,7 @@
   font-size: 1rem;
   text-align: center;
   text-transform: uppercase;
-  padding-bottom: 0.05rem;
+  padding-bottom: 0.5rem;
   color: skyblue;
 }
 .description {
@@ -70,6 +70,12 @@
   text-align: center;
   text-transform: uppercase;
   padding: 1rem 0.5rem;
+}
+.skill-name {
+  font-size: 0.65rem;
+  font-weight: 0.65rem;
+  text-align: left;
+  padding-bottom: 0.5rem;
 }
 .progress-bar {
   border: 1px white solid;
